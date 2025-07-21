@@ -1,18 +1,24 @@
-### Hi there 👋
-My name is Namish M. I am from RNS Institute of Technology taking BE in Artificial Intelligence and Machine Learning
+## 👋 Hi, I'm Namish M
 
-- 🌱 I’m currently learning Machine Learning starting with Supervised Learning on Coursera
-<!--
-**NamishM7/NamishM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a recent graduate in **Artificial Intelligence and Machine Learning** from **RNS Institute of Technology** (May 2025).  
+🛠️ I love building AI-driven and full-stack web applications that solve real-world problems.
 
-Here are some ideas to get you started:
+### 💡 Projects I've worked on:
+- 🧠 **AI Compliance Gap Analyzer** – Checks policy alignment with ISO, NIST, and GDPR using NLP and Transformers.
+- 🧘‍♂️ **Yoga Posture Detection App** – Uses pose analysis and TTS to guide users through yoga routines.
+- 🌱 **Krishi Mitra** – A beginner-friendly farming assistant built with Flask and MySQL.
+- 📚 **Doc-to-YouTube Learning Tool** – Finds relevant YouTube videos based on document content using AI.
 
-- 🔭 I’m currently working on
+### 🧰 Tech Stack & Skills:
+- **Languages**: Python, JavaScript, HTML/CSS, Java  
+- **Frameworks**: Flask, FastAPI, Streamlit  
+- **AI/ML**: Transformers, Scikit-learn, YOLOv8, TTS  
+- **Databases**: MySQL, SQLite  
+- **Tools**: Git, FPDF, YouTube API, OpenCV  
+- **Cybersecurity**: Wireshark, Nmap, tcpdump
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at **namishm17@gmail.com**
+
+---
+
+⚡ *Always learning, building, and looking for impactful opportunities in AI, full-stack development, or cybersecurity.*
