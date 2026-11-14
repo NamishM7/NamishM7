@@ -9,11 +9,10 @@ AI & ML Engineer | Python | Machine Learning | Generative AI | Software Developm
 - 📚 **Doc-to-YouTube Learning Tool** – Finds relevant YouTube videos based on document content using AI.
 
 ### 🧰 Tech Stack & Skills:
-- **Languages**: Python, JavaScript, HTML/CSS, Java  
-- **Frameworks**: Flask, FastAPI, Streamlit  
-- **AI/ML**: Transformers, Scikit-learn, YOLOv8, TTS  
+- **Languages**: Python, JavaScript, HTML/CSS, Java, C++  
+- **Frameworks**: Flask, FastAPI  
 - **Databases**: MySQL, SQLite  
-- **Tools**: Git, FPDF, YouTube API, OpenCV  
+- **Tools**: Git, OpenCV  
 - **Cybersecurity**: Wireshark, Nmap, tcpdump
 
 📫 Reach me at **namishm17@gmail.com**
