@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Namish M
 
-🎓 I'm a recent graduate in **Artificial Intelligence and Machine Learning** from **RNS Institute of Technology** (May 2025).  
-🛠️ I love building AI-driven and full-stack web applications that solve real-world problems.
+AI & ML Engineer | Python | Machine Learning | Generative AI | Software Development
 
 ### 💡 Projects I've worked on:
 - 🧠 **AI Compliance Gap Analyzer** – Checks policy alignment with ISO, NIST, and GDPR using NLP and Transformers.
